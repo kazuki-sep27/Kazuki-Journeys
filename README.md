@@ -1,2 +1,3 @@
-# learn_node
-My Site
+# Kazuki-Journeys
+
+My Personal Website Project
